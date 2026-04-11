@@ -45,5 +45,14 @@
 
 ###
 
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AltinTorba&show_icons=true&theme=radical)
+
+> "Code is like humor. When you have to explain it, it's bad." – Cory House
+
 🌍 Open to remote collaborations
 
