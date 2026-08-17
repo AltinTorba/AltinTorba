@@ -40,8 +40,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/AltinTorba/AltinTorba/output/snake.svg" alt="Snake animation" />
-
-###
-
 🌍 Open to remote collaborations
